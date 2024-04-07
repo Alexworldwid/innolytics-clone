@@ -1,0 +1,129 @@
+[
+    {
+        "id": 1,
+        "channel": {
+            "blog": {
+                "date": "August 18th, 2022",
+                "About": "A Weekly Newsletter Focused On Delivering Digetible"
+            },
+            "whitepapers": {
+                "date": "August 18th, 2022",
+                "About": "A Weekly Whitepaper Focused On Delivering Digetible"
+            },
+            "podcast": {
+                "date": "August 18th, 2022",
+                "About": "A sweet and Focused podcast On Delivering Digetible"
+            },
+            "webinars": {
+                "date": "August 18th, 2022",
+                "About": "Webinars Focused On connecting Developers"
+            }
+        }
+    },
+    {
+        "id": 2,
+        "channel": {
+            "blog": {
+                "date": "August 19th, 2022",
+                "About": "A Weekly Newsletter Focused On Delivering Digetible"
+            },
+            "whitepapers": {
+                "date": "August 19th, 2022",
+                "About": "A Weekly Whitepaper Focused On Delivering Digetible"
+            },
+            "podcast": {
+                "date": "August 19th, 2022",
+                "About": "A sweet and Focused podcast On Delivering Digetible"
+            },
+            "webinars": {
+                "date": "August 19th, 2022",
+                "About": "Webinars Focused On connecting Developers"
+            }
+        }
+    },
+    {
+        "id": 3,
+        "channel": {
+            "blog": {
+                "date": "August 20th, 2022",
+                "About": "A Weekly Newsletter Focused On Delivering Digetible"
+            },
+            "whitepapers": {
+                "date": "August 20th, 2022",
+                "About": "A Weekly Whitepaper Focused On Delivering Digetible"
+            },
+            "podcast": {
+                "date": "August 20th, 2022",
+                "About": "A sweet and Focused podcast On Delivering Digetible"
+            },
+            "webinars": {
+                "date": "August 20th, 2022",
+                "About": "Webinars Focused On connecting Developers"
+            }
+        }
+    },
+    {
+        "id": 4,
+        "channel": {
+            "blog": {
+                "date": "August 21th, 2022",
+                "About": "A Weekly Newsletter Focused On Delivering Digetible"
+            },
+            "whitepapers": {
+                "date": "August 21th, 2022",
+                "About": "A Weekly Whitepaper Focused On Delivering Digetible"
+            },
+            "podcast": {
+                "date": "August 21th, 2022",
+                "About": "A sweet and Focused podcast On Delivering Digetible"
+            },
+            "webinars": {
+                "date": "August 21th, 2022",
+                "About": "Webinars Focused On connecting Developers"
+            }
+        }
+    },
+    {
+        "id": 5,
+        "channel": {
+            "blog": {
+                "date": "August 22th, 2022",
+                "About": "A Weekly Newsletter Focused On Delivering Digetible"
+            },
+            "whitepapers": {
+                "date": "August 22th, 2022",
+                "About": "A Weekly Whitepaper Focused On Delivering Digetible"
+            },
+            "podcast": {
+                "date": "August 22th, 2022",
+                "About": "A sweet and Focused podcast On Delivering Digetible"
+            },
+            "webinars": {
+                "date": "August 22th, 2022",
+                "About": "Webinars Focused On connecting Developers"
+            }
+        }
+    },
+    {
+        "id": 6,
+        "channel": {
+            "blog": {
+                "date": "August 22th, 2022",
+                "About": "A Weekly Newsletter Focused On Delivering Digetible"
+            },
+            "whitepapers": {
+                "date": "August 22th, 2022",
+                "About": "A Weekly Whitepaper Focused On Delivering Digetible"
+            },
+            "podcast": {
+                "date": "August 22th, 2022",
+                "About": "A sweet and Focused podcast On Delivering Digetible"
+            },
+            "webinars": {
+                "date": "August 22th, 2022",
+                "About": "Webinars Focused On connecting Developers"
+            }
+        }
+    }
+
+]
